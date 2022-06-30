@@ -1,3 +1,3 @@
-module github.com/username/PlayAroundGO
+module github.com/SanskarS/GoHttpFramework
 
 go 1.18
